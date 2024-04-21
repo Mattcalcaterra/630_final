@@ -1,0 +1,8 @@
+# ignore models
+/models
+
+# ignore wandb
+/wandb
+
+# ignore proposal
+/proposal
