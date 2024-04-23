@@ -6,3 +6,6 @@
 
 # ignore proposal
 /proposal
+
+#ignore images
+/images
