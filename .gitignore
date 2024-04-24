@@ -1,11 +1,11 @@
 # ignore models
-/models
+models
 
 # ignore wandb
-/wandb
+wandb
 
 # ignore proposal
-/proposal
+proposal
 
 #ignore images
-/images
+images
