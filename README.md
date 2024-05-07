@@ -83,7 +83,7 @@ A full write up of the project can be found in the [technical report](https://gi
 
 ##  Modules
 
-<details closed></details><summary>Technical Report</summary>
+<details closed><summary>Technical Report</summary>
 
 | File                                                                                                                                  | Summary                                                 |
 | ---                                                                                                                                   | ---                                                     |
