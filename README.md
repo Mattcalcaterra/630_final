@@ -113,7 +113,3 @@ A full write up of the project can be found in the [technical report](https://gi
 </details>
 
 ---
-
-[**Return**](#-quick-links)
-
----
