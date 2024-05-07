@@ -89,9 +89,9 @@ A full write up of the project can be found in the [technical report](https://gi
 
 | File                                                                                                                                  | Summary                                                 |
 | ---                                                                                                                                   | ---                                                     |
-| [AnnotatedData](https://github.com/Mattcalcaterra/prescriptionAdviceExtraction/blob/master/AnnotatedData)                   | Contains annotated prescription handout text data, indicating specific segments of advice with corresponding labels |
-| [RawData](https://github.com/Mattcalcaterra/prescriptionAdviceExtraction/blob/master/RawData) | Contains raw handout text files for 92 classes of drugs |
-| [results](https://github.com/Mattcalcaterra/prescriptionAdviceExtraction/blob/master/results)               | Model performance results data        |
+| [AnnotatedData](https://github.com/Mattcalcaterra/prescriptionAdviceExtraction/blob/master/data/AnnotatedData)                   | Contains annotated prescription handout text data, indicating specific segments of advice with corresponding labels |
+| [RawData](https://github.com/Mattcalcaterra/prescriptionAdviceExtraction/blob/master/data/RawData) | Contains raw handout text files for 92 classes of drugs |
+| [results](https://github.com/Mattcalcaterra/prescriptionAdviceExtraction/blob/master/data/results)               | Model performance results data        |
 
 </details>
 
